@@ -21,7 +21,7 @@
 
 #####Google Font
 - Website · [https://www.google.com/fonts](https://www.google.com/fonts)
-- Open Sans · [https://www.google.com/fonts#QuickUsePlace:quickUse/Family:Open+Sans](https://google.com/fonts#QuickUsePlace:quickUse/Family:Open+Sans)
+- Open Sans · [https://www.google.com/fonts#QuickUsePlace:quickUse/Family:Open+Sans](https://www.google.com/fonts#QuickUsePlace:quickUse/Family:Open+Sans)
 
 #####jQuery 1.11.1
 - Website · [http://jquery.com](http://jquery.com)
